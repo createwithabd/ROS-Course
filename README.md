@@ -2,7 +2,7 @@
 
 ------
 
-<img align=left src="F:\TuTechHome\Youtube Channel\tutechhome channel information\Youtube Profile.png" />  
+ <img align= left src="Images\Youtube Profile.png" /> 
   **Author:**  Abdullah A.
   **Channel:** [TuTechHome](https://www.youtube.com/channel/UCRGXbEtxa21TOg7-bGvepcg)
      
