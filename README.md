@@ -1,14 +1,12 @@
 # ROS-Course
 
-------
+<img align= "left" src="Images\Youtube Profile.png" />
 
- <img align= left src="Images\Youtube Profile.png" /> 
-  **Author:**  Abdullah A.
-  **Channel:** [TuTechHome](https://www.youtube.com/channel/UCRGXbEtxa21TOg7-bGvepcg)
-     
-
-------
-
+ **Author:**  Abdullah A. <br />
+ **Channel:** [TuTechHome](https://www.youtube.com/channel/UCRGXbEtxa21TOg7-bGvepcg) <br />
+ **Book Reference:** ROS Robot Programming [English]  <br />
+ 
+ ------
 
 
 ## Robot Operating System
